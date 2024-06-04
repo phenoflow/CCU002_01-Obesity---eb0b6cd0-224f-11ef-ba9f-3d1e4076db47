@@ -1,0 +1,39 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/ccu002_01-obesity-class---primary.py
+inputModule3:
+  class: File
+  path: python/ccu002_01-obesity-centile---primary.py
+inputModule4:
+  class: File
+  path: python/ccu002_01-obesity-index---primary.py
+inputModule5:
+  class: File
+  path: python/obesity---primary.py
+inputModule6:
+  class: File
+  path: python/ccu002_01-obesity---primary.py
+inputModule7:
+  class: File
+  path: python/ccu002_01-obesity-hyperalimentation---primary.py
+inputModule8:
+  class: File
+  path: python/dietary-ccu002_01-obesity---primary.py
+inputModule9:
+  class: File
+  path: python/obese-ccu002_01-obesity---primary.py
+inputModule10:
+  class: File
+  path: python/ccu002_01-obesity-pickwickian---primary.py
+inputModule11:
+  class: File
+  path: python/ccu002_01-obesity-treatment---primary.py
+inputModule12:
+  class: File
+  path: python/other-ccu002_01-obesity---primary.py
+inputModule13:
+  class: File
+  path: python/output-cases.py
